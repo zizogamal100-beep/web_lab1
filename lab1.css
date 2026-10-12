@@ -1,0 +1,23 @@
+.firstDiv{
+    background-color: black;
+    text-align: center;
+    
+}
+.secondDiv{
+    text-align: center;
+}
+.box{
+    display: inline-block;
+    width: 250px;
+    background-color:whitesmoke ;
+}
+
+
+p
+{
+    color: gainsboro;
+}
+body{
+    background-color: white;
+    text-align: center;
+}
